@@ -30,6 +30,9 @@ def start():
         P1P6 = 2 * M
     else:
         P1P6 = 2 * M + DTS
+
+    # Обновление репозитория.
+    
     print('Ширина спины', Shc)
     print('рост', Rost)
     print('высота плеча', h)
