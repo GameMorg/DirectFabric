@@ -1,2 +1,4 @@
 config.py
-__pychane__/
+__pycache__/
+*.py[cod]
+*$py.class
